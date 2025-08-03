@@ -76,12 +76,17 @@ maps, weather updates, and local guides.
 ## 🎓 IBM Certifications
 
 > Include any relevant badges or credentials you’ve earned:
- 
+ <img width="943" height="731" alt="{1EEC2724-5D93-4F72-991B-B7120DBF2A66}" src="https://github.com/user-attachments/assets/d4996a1f-6427-46f7-bf40-755a37e7b121" />
+ <img width="939" height="709" alt="image" src="https://github.com/user-attachments/assets/2b4e1683-9c9e-4322-8701-0d0f4bc5b7e0" />
+ <img width="823" height="575" alt="image" src="https://github.com/user-attachments/assets/5b9be56f-6db5-407b-9417-d02d77d662ff" />
 ---
 
 ## 📷 Demo Screenshots
-
- 
+![1st](https://github.com/user-attachments/assets/d6699c92-8826-4a41-be1e-af149322301e)
+![2nd](https://github.com/user-attachments/assets/b9f5a309-2cce-48b4-98a6-4f9e1b029595)
+![3rd](https://github.com/user-attachments/assets/e4c4e195-af8a-4af5-a61c-2664ba1a9877)
+![4th](https://github.com/user-attachments/assets/08f5d698-a1ce-4974-8fcb-50348b3d0236)
+---
 
 ## 📃 License
 
